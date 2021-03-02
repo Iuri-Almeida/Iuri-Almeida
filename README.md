@@ -4,12 +4,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iurilopesalmeida@gmail.com)](mailto:iurilopesalmeida@gmail.com)
 
 <p>
-Olá, meu nome é Iuri, faço Engenharia Agrícola e Ambiental na UFF e, atualmente, estou participando do <a href = "https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu">programa de Inovação Tecnológica da Petrobras</a> na PUC-RIO. Eu sou apaixonado por tecnologia, programação e desenvolvimento de projetos voltados para inovação. Amo participar de hackathons, desafios e tudo que me faça dar o meu melhor a todo instante. Estou sempre disposto a aprender coisas novas e conhecer novas áreas.
+Olá, meu nome é Iuri, faço Engenharia Agrícola e Ambiental na UFF e, atualmente, estou participando do <a href = "https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu">programa de Inovação Tecnológica da Petrobras</a> na PUC-RIO.
+
+Eu sou desenvolvedor full stack e trabalho, atualmente, com Node.js e ReactJS. Sou apaixonado por tecnologia, programação e desenvolvimento de projetos voltados para inovação. Amo participar de hackathons, desafios e tudo que me faça dar o meu melhor a todo instante. Estou sempre disposto a aprender coisas novas e conhecer novas áreas.
 </p>
 
 ## :eyes: Sobre mim ##
 
-* Desenvolvedor front-end 🎨
+* Desenvolvedor Full Stack 👨🏻‍💻
 
 * Estudando atualmente:
 
@@ -22,8 +24,6 @@ Olá, meu nome é Iuri, faço Engenharia Agrícola e Ambiental na UFF e, atualme
 <code><img src="https://user-images.githubusercontent.com/60857927/108612577-aee79c80-73c8-11eb-8400-5260990e647e.png" alt="SQL" width="40" height="40"/></code>&nbsp;
 <code><img src="https://user-images.githubusercontent.com/60857927/108612429-74313480-73c7-11eb-8407-ccfac1eda8ad.png" alt="Linux" width="40" height="40"/></code>&nbsp;
 </p>
-
-* Apaixonado por hacking :computer:
 
 * Entusiasta no Linux 🐧
 
