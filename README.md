@@ -10,15 +10,11 @@
 - 🎁&nbsp; **2021 Goals:** Work at a software development company.
 - 🥋&nbsp; **Curiosity:** I'm a jiu jitsu black belt.
 
-<br />
-
 ## Connect with me &nbsp;😄 ##
 
 [![Instagram Badge](https://img.shields.io/badge/-@_iurialmeida-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_iurialmeida)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurilopesalmeida/)](https://www.linkedin.com/in/iurilopesalmeida/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iurilopesalmeida@gmail.com)](mailto:iurilopesalmeida@gmail.com)
-
-<br />
 
 ## Languages and Tools &nbsp;🛠 ##
 
@@ -36,10 +32,10 @@
 [<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/60857927/111581884-ce3fd280-8798-11eb-8306-715fc2d2f1d3.jpeg" />][github]
 
 <br />
+<br />
+<br />
 
 <img align = "center" alt = "Iuri's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=Iuri-Almeida&count_private=true&show_icons=true&hide_border=true&title_color=00cafd&icon_color=00cafd&bg_color=000&text_color=fff" />
-
-<br />
 
 ## Hackathons &nbsp;🚀 ##
 
