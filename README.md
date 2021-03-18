@@ -12,8 +12,8 @@
 
 ## Connect with me &nbsp;😄 ##
 
-[<img alt="Instagram" target="_blank" height="26px" src="https://img.shields.io/badge/-@_iurialmeida-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" />][instagram]
-[<img alt="LinkedIn" target="_blank" height="26px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurilopesalmeida/" />][linkedin]
+[<img alt="Instagram" height="26px" src="https://img.shields.io/badge/-@_iurialmeida-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" />][instagram]
+[<img alt="LinkedIn" height="26px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurilopesalmeida/" />][linkedin]
 [<img alt="Gmail" height="26px" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=c14438&logo=Gmail&logoColor=white&link=mailto:iurilopesalmeida@gmail.com" />](mailto:iurilopesalmeida@gmail.com)
 
 ## Languages and Tools &nbsp;🛠 ##
