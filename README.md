@@ -39,13 +39,13 @@
 
 ## Hackathons &nbsp;🚀 ##
 
-- Projeto [Investa][investa] - [Hackathon Getnet](getnet)
+- [Investa][investa] - [Hackathon Getnet](getnet)
 
-- Projeto [Liv](liv) - [Mega Hack 3.0](megahack) [2º Lugar]
+- [Liv](liv) - [Mega Hack 3.0](megahack) [2nd place]
 
-- Projeto [Agilicar](agilicar) - [Hackathon CCR](ccr) [6º Lugar]
+- [Agilicar](agilicar) - [Hackathon CCR](ccr) [6th place]
 
-- Projeto [Tags](tags) - [Hacking Help Covid-19](hackinghelp)
+- [Tags](tags) - [Hacking Help Covid-19](hackinghelp)
 
 <!-- Links -->
 [intership]: https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu
