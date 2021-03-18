@@ -12,9 +12,10 @@
 
 ## Connect with me &nbsp;😄 ##
 
-[![Instagram Badge](https://img.shields.io/badge/-@_iurialmeida-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_iurialmeida)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurilopesalmeida/)](https://www.linkedin.com/in/iurilopesalmeida/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iurilopesalmeida@gmail.com)](mailto:iurilopesalmeida@gmail.com)
+[<img alt="Instagram" height="30px" src="https://img.shields.io/badge/-@_iurialmeida-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" />][instagram]
+[<img alt="LinkedIn" height="30px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurilopesalmeida/" />][linkedin]
+[<img alt="LinkedIn" height="30px" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iurilopesalmeida@gmail.com" />](mailto:iurilopesalmeida@gmail.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iurilopesalmeida@gmail.com)](mailto:iurilopesalmeida@gmail.com) -->
 
 ## Languages and Tools &nbsp;🛠 ##
 
