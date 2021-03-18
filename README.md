@@ -1,44 +1,73 @@
-## :wave: Iuri Almeida ##
+### Hello world, I'm Iuri! &nbsp;<img alt="Iuri Almeida | LinkedIn" width="33px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" /> ###
 
+## I'm a College Student, Self-Taught and Full Stack Developer! ##
+
+- 👨🏻‍💻&nbsp; I'm currently working at [Módulo Ignição][intership]!
+- ✍🏻&nbsp; I'm writing an article about [Donut Rotation][donut].
+- 📚&nbsp; I'm always studying something related to technology.
+- 🌎&nbsp; I want to help spread knowledge around the world.
+- 💜&nbsp; If I can help you with anything, let me know.
+- 🎁&nbsp; **2021 Goals:** Work at a software development company.
+- 🥋&nbsp; **Curiosity:** I'm a jiu jitsu black belt.
+
+---
+
+## Connect with me &nbsp;😄 ##
+
+[![Instagram Badge](https://img.shields.io/badge/-@_iurialmeida-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_iurialmeida)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurilopesalmeida/)](https://www.linkedin.com/in/iurilopesalmeida/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iurilopesalmeida@gmail.com)](mailto:iurilopesalmeida@gmail.com)
 
-<p>
-Olá, meu nome é Iuri, faço Engenharia Agrícola e Ambiental na UFF e, atualmente, estou participando do <a href = "https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu">programa de Inovação Tecnológica da Petrobras</a> na PUC-RIO.
+<br />
 
-Eu sou desenvolvedor full stack e trabalho, atualmente, com Node.js e ReactJS. Sou apaixonado por tecnologia, programação e desenvolvimento de projetos voltados para inovação. Amo participar de hackathons, desafios e tudo que me faça dar o meu melhor a todo instante. Estou sempre disposto a aprender coisas novas e conhecer novas áreas.
-</p>
+---
 
-## :eyes: Sobre mim ##
+## Languages and Tools &nbsp;🛠 ##
 
-* Desenvolvedor Full Stack 👨🏻‍💻
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/60857927/108612406-41873c00-73c7-11eb-8c19-ab379a124cf2.png" />][github]
+[<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/60857927/108612516-3aacf900-73c8-11eb-9c4b-7c6bdaf27d46.png" />][github]
+[<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/60857927/108612409-464bf000-73c7-11eb-92de-b3bbd7132cbd.png" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/60857927/111581779-a7819c00-8798-11eb-886f-b84ef56be536.png" />][github]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
+[<img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/60857927/111581663-71dcb300-8798-11eb-8fee-7b022e615a20.png" />][github]
+[<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/60857927/108612577-aee79c80-73c8-11eb-8400-5260990e647e.png" />][github]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
+[<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/60857927/108612429-74313480-73c7-11eb-8407-ccfac1eda8ad.png" />][github]
+[<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/60857927/111581427-f975f200-8797-11eb-80a5-34b2419d50ed.png" />][github]
+[<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/60857927/111581884-ce3fd280-8798-11eb-8306-715fc2d2f1d3.jpeg" />][github]
 
-* Estudando atualmente:
+<br />
+<br />
 
-<p align="left">
-<code><img src="https://user-images.githubusercontent.com/60857927/108612362-eb19fd80-73c6-11eb-8066-6b7afc168861.png" alt="Python" width="40" height="40"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/60857927/108612406-41873c00-73c7-11eb-8c19-ab379a124cf2.png" alt="HTML" width="40" height="40"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/60857927/108612516-3aacf900-73c8-11eb-9c4b-7c6bdaf27d46.png" alt="CSS" width="40" height="40"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/60857927/108612409-464bf000-73c7-11eb-92de-b3bbd7132cbd.png" alt="JavaScript" width="40" height="40"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/60857927/108612627-274e5d80-73c9-11eb-89e7-9f168dd1553a.png" alt="ReactJS" width="40" height="40"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/60857927/108612577-aee79c80-73c8-11eb-8400-5260990e647e.png" alt="SQL" width="40" height="40"/></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/60857927/108612429-74313480-73c7-11eb-8407-ccfac1eda8ad.png" alt="Linux" width="40" height="40"/></code>&nbsp;
-</p>
+<img align = "center" alt = "Iuri's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=Iuri-Almeida&count_private=true&show_icons=true&hide_border=true&title_color=00cafd&icon_color=00cafd&bg_color=000&text_color=fff" />
 
-* Entusiasta no Linux 🐧
+<br />
+<br />
 
-* Movido a desafios e muito café :coffee:
+---
 
-![Iuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iuri-Almeida&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true)
-<br>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iuri-Almeida&theme=midnight-purple&hide_border=true) -->
+## Hackathons &nbsp;🚀 ##
 
-## :rocket: Hackathons ##
+- Projeto [Investa][investa] - [Hackathon Getnet](getnet)
 
-* Projeto [Investa](https://github.com/Iuri-Almeida/investa-hackathon-getnet) - [Hackathon Getnet](https://www.hackathongetnet.com.br/)
+- Projeto [Liv](liv) - [Mega Hack 3.0](megahack) [2º Lugar]
 
-* Projeto [Liv](https://github.com/Iuri-Almeida/projeto_liv_mega_hack) - [Mega Hack 3.0](https://www.megahack.com.br/) [2º Lugar]
+- Projeto [Agilicar](agilicar) - [Hackathon CCR](ccr) [6º Lugar]
 
-* Projeto [Agilicar](https://github.com/Iuri-Almeida/time_70_agilicar) - [Hackathon CCR](http://www.grupoccr.com.br/hackathonccr/) [6º Lugar]
+- Projeto [Tags](tags) - [Hacking Help Covid-19](hackinghelp)
 
-* Projeto [Tags](https://www.youtube.com/watch?v=bgvWcUgYe2g) - [Hacking Help Covid-19](http://www.hackingrio.com/)
+<!-- Links -->
+[intership]: https://nossaenergia.petrobras.com.br/pt/energia/conexoes-para-a-inovacao-modulo-ignicao-busca-as-ideias-de-jovens-estudantes/#menu
+[donut]: https://www.a1k0n.net/2011/07/20/donut-math.html
+[github]: https://github.com/Iuri-Almeida
+[instagram]: https://www.instagram.com/_iurialmeida/
+[linkedin]: https://www.linkedin.com/in/iurilopesalmeida/
+[investa]: https://github.com/Iuri-Almeida/investa-hackathon-getnet
+[getnet]: https://www.hackathongetnet.com.br/
+[liv]: https://github.com/Iuri-Almeida/projeto_liv_mega_hack
+[megahack]: https://www.megahack.com.br/
+[agilicar]: https://github.com/Iuri-Almeida/time_70_agilicar
+[ccr]: http://www.grupoccr.com.br/hackathonccr/
+[tags]: https://www.youtube.com/watch?v=bgvWcUgYe2g
+[hackinghelp]: http://www.hackingrio.com/
