@@ -29,10 +29,9 @@ Eu sou desenvolvedor full stack e trabalho, atualmente, com Node.js e ReactJS. S
 
 * Movido a desafios e muito café :coffee:
 
-![Iuri Almeida GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Iuri-Almeida&show_icons=true&hide_border=true)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iuri-Almeida)](https://github.com/Iuri-Almeida/github-readme-stats)
--->
+![Iuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iuri-Almeida&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iuri-Almeida&theme=midnight-purple&hide_border=true)
 
 ## :rocket: Hackathons ##
 
