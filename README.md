@@ -31,7 +31,7 @@ Eu sou desenvolvedor full stack e trabalho, atualmente, com Node.js e ReactJS. S
 
 ![Iuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iuri-Almeida&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iuri-Almeida&theme=midnight-purple&hide_border=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iuri-Almeida&theme=midnight-purple&hide_border=true) -->
 
 ## :rocket: Hackathons ##
 
