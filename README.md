@@ -3,7 +3,7 @@
 ## I'm a College Student, Self-Taught and Full Stack Developer! ##
 
 - 👨🏻‍💻&nbsp; I'm currently working at [Vertigo][intership]!
-- 📍&nbsp; I have my own [website][website] for presenting my projects.
+- 📍&nbsp;I have my own [website][website] for presenting my projects.
 - ✍🏻&nbsp; I'm writing an article about [Donut Rotation][donut].
 - 📚&nbsp; I'm always studying something related to technology.
 - 🌎&nbsp; I want to help spread knowledge around the world.
