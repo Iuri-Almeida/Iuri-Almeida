@@ -31,6 +31,7 @@
 [<img align="left" alt="Linux" width="36px" src="https://user-images.githubusercontent.com/60857927/108612429-74313480-73c7-11eb-8407-ccfac1eda8ad.png" />][linux]
 [<img align="left" alt="Git" width="36px" src="https://user-images.githubusercontent.com/60857927/111581427-f975f200-8797-11eb-80a5-34b2419d50ed.png" />][git]
 [<img align="left" alt="Terminal" width="36px" src="https://user-images.githubusercontent.com/60857927/111581884-ce3fd280-8798-11eb-8306-715fc2d2f1d3.jpeg" />][githubProfile]
+[<img align="left" alt="Java" width="36px" src="https://user-images.githubusercontent.com/60857927/117898652-d2b9d080-b29b-11eb-94af-d0fe2c50eefd.png" />][java]
 
 <br />
 <br />
@@ -64,6 +65,7 @@
 [python]: https://www.python.org/
 [linux]: https://www.fsf.org/
 [git]: https://git-scm.com/
+[java]: https://www.java.com/
 [instagram]: https://www.instagram.com/_iurialmeida/
 [linkedin]: https://www.linkedin.com/in/iurilopesalmeida/
 [investa]: https://github.com/Iuri-Almeida/investa-hackathon-getnet
