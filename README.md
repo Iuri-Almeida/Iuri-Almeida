@@ -37,7 +37,7 @@
 <br />
 <br />
 
-<img align = "center" alt = "Iuri's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=Iuri-Almeida&count_private=true&show_icons=true&hide_border=true&title_color=449DD1&icon_color=449DD1&bg_color=000000&text_color=fff" />
+<img align = "center" alt = "Iuri's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=Iuri-Almeida&count_private=true&show_icons=true&hide_border=true&title_color=449DD1&icon_color=449DD1&bg_color=00000000&text_color=69AED6" />
 
 ## Hackathons &nbsp;🚀 ##
 
