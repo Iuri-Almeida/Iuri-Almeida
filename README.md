@@ -41,13 +41,13 @@
 
 ## Hackathons &nbsp;🚀 ##
 
-- [Investa][investa] - [Hackathon Getnet](getnet)
+- [Investa][investa] - [Hackathon Getnet][getnet]
 
-- [Liv](liv) - [Mega Hack 3.0](megahack) [2nd place]
+- [Liv][liv] - [Mega Hack 3.0][megahack] [2nd place]
 
-- [Agilicar](agilicar) - [Hackathon CCR](ccr) [6th place]
+- [Agilicar][agilicar] - [Hackathon CCR][ccr] [6th place]
 
-- [Tags](tags) - [Hacking Help Covid-19](hackinghelp)
+- [Tags][tags] - [Hacking Help Covid-19][hackinghelp]
 
 <!-- Links -->
 [intership]: https://vertigo.com.br/
