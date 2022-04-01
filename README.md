@@ -7,7 +7,7 @@
 - 📚&nbsp; I'm always studying something related to technology.
 - 🌎&nbsp; I want to help spread knowledge around the world.
 - 💜&nbsp; If I can help you with anything, let me know.
-- 🎁&nbsp; **2022 Goals:** Get hired by a software development company.
+- 🎁&nbsp; **2022 Goals:** Get hired by a software development company. ✅
 - 🥋&nbsp; **Curiosity:** I'm a jiu jitsu black belt.
 
 ## Connect with me &nbsp;😄 ##
