@@ -1,4 +1,4 @@
-### Hello world, I'm Iuri! &nbsp;<img width="33px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" /> ###
+### Hello world, I'm Iuri! &nbsp;<img width="33" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" /> ###
 
 ## I'm a College Student, Self-Taught and Full Stack Developer! ##
 
