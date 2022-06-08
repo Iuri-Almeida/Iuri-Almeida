@@ -18,27 +18,27 @@
 
 ## Languages and Tools &nbsp;🛠 ##
 
-[<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="36px" src="https://user-images.githubusercontent.com/60857927/108612406-41873c00-73c7-11eb-8c19-ab379a124cf2.png" />][html]
-[<img align="left" alt="CSS3" width="36px" src="https://user-images.githubusercontent.com/60857927/108612516-3aacf900-73c8-11eb-9c4b-7c6bdaf27d46.png" />][css]
-[<img align="left" alt="JavaScript" width="36px" src="https://user-images.githubusercontent.com/60857927/108612409-464bf000-73c7-11eb-92de-b3bbd7132cbd.png" />][js]
-[<img align="left" alt="GitHub" width="36px" src="https://user-images.githubusercontent.com/60857927/111581779-a7819c00-8798-11eb-886f-b84ef56be536.png" />][github]
-[<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactjs]
-[<img align="left" alt="Node.js" width="36px" src="https://user-images.githubusercontent.com/60857927/111581663-71dcb300-8798-11eb-8fee-7b022e615a20.png" />][nodejs]
-[<img align="left" alt="SQL" width="36px" src="https://user-images.githubusercontent.com/60857927/108612577-aee79c80-73c8-11eb-8400-5260990e647e.png" />][sql]
-[<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="Linux" width="36px" src="https://user-images.githubusercontent.com/60857927/108612429-74313480-73c7-11eb-8407-ccfac1eda8ad.png" />][linux]
-[<img align="left" alt="Git" width="36px" src="https://user-images.githubusercontent.com/60857927/111581427-f975f200-8797-11eb-80a5-34b2419d50ed.png" />][git]
-[<img align="left" alt="Terminal" width="36px" src="https://user-images.githubusercontent.com/60857927/111581884-ce3fd280-8798-11eb-8306-715fc2d2f1d3.jpeg" />][githubProfile]
-[<img align="left" alt="Java" width="36px" src="https://user-images.githubusercontent.com/60857927/117898652-d2b9d080-b29b-11eb-94af-d0fe2c50eefd.png" />][java]
-[<img align="left" alt="Angular" width="36px" src="https://user-images.githubusercontent.com/60857927/141646772-2ed23266-d195-4751-9487-da9a4262b4e6.png" />][angular]
-[<img align="left" alt="Spring Boot" width="36px" src="https://user-images.githubusercontent.com/60857927/156762178-33557b36-4007-4439-9775-cb7ef9d8e67b.png" />][springboot]
+<div align = "center">
 
-<br />
-<br />
-<br />
+[<img alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img alt="HTML5" width="36px" src="https://user-images.githubusercontent.com/60857927/108612406-41873c00-73c7-11eb-8c19-ab379a124cf2.png" />][html]
+[<img alt="CSS3" width="36px" src="https://user-images.githubusercontent.com/60857927/108612516-3aacf900-73c8-11eb-9c4b-7c6bdaf27d46.png" />][css]
+[<img alt="JavaScript" width="36px" src="https://user-images.githubusercontent.com/60857927/108612409-464bf000-73c7-11eb-92de-b3bbd7132cbd.png" />][js]
+[<img alt="GitHub" width="36px" src="https://user-images.githubusercontent.com/60857927/111581779-a7819c00-8798-11eb-886f-b84ef56be536.png" />][github]
+[<img alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactjs]
+[<img alt="Node.js" width="36px" src="https://user-images.githubusercontent.com/60857927/111581663-71dcb300-8798-11eb-8fee-7b022e615a20.png" />][nodejs]
+[<img alt="SQL" width="36px" src="https://user-images.githubusercontent.com/60857927/108612577-aee79c80-73c8-11eb-8400-5260990e647e.png" />][sql]
+[<img alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img alt="Linux" width="36px" src="https://user-images.githubusercontent.com/60857927/108612429-74313480-73c7-11eb-8407-ccfac1eda8ad.png" />][linux]
+[<img alt="Git" width="36px" src="https://user-images.githubusercontent.com/60857927/111581427-f975f200-8797-11eb-80a5-34b2419d50ed.png" />][git]
+[<img alt="Terminal" width="36px" src="https://user-images.githubusercontent.com/60857927/111581884-ce3fd280-8798-11eb-8306-715fc2d2f1d3.jpeg" />][githubProfile]
+[<img alt="Java" width="36px" src="https://user-images.githubusercontent.com/60857927/117898652-d2b9d080-b29b-11eb-94af-d0fe2c50eefd.png" />][java]
+[<img alt="Angular" width="36px" src="https://user-images.githubusercontent.com/60857927/141646772-2ed23266-d195-4751-9487-da9a4262b4e6.png" />][angular]
+[<img alt="Spring Boot" width="36px" src="https://user-images.githubusercontent.com/60857927/156762178-33557b36-4007-4439-9775-cb7ef9d8e67b.png" />][springboot]
 
-<img align = "center" alt = "Iuri's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=Iuri-Almeida&count_private=true&show_icons=true&hide_border=true&title_color=449DD1&icon_color=449DD1&bg_color=00000000&text_color=69AED6" />
+<img alt = "Iuri's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=Iuri-Almeida&count_private=true&show_icons=true&hide_border=true&title_color=449DD1&icon_color=449DD1&bg_color=00000000&text_color=69AED6" />
+
+</div>
 
 ## Hackathons &nbsp;🚀 ##
 
