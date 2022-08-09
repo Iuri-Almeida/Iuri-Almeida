@@ -3,7 +3,7 @@
 ## I'm a College Student, Self-Taught and Full Stack Developer! ##
 
 - 👨🏻‍💻&nbsp; I'm currently working at [Itaú Unibanco][work]!
-- 📍&nbsp;I have my own [website][website] for presenting my projects.
+- &nbsp;📍&nbsp;&nbsp;&nbsp;I have my own [website][website] for presenting my projects.
 - 📚&nbsp; I'm always studying something related to technology.
 - 🌎&nbsp; I want to help spread knowledge around the world.
 - 💜&nbsp; If I can help you with anything, let me know.
