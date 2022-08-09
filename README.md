@@ -2,7 +2,7 @@
 
 ## I'm a College Student, Self-Taught and Full Stack Developer! ##
 
-- 👨🏻‍💻&nbsp; I'm currently working at [Vertigo][intership]!
+- 👨🏻‍💻&nbsp; I'm currently working at [Itaú Unibanco][work]!
 - 📍&nbsp;I have my own [website][website] for presenting my projects.
 - 📚&nbsp; I'm always studying something related to technology.
 - 🌎&nbsp; I want to help spread knowledge around the world.
@@ -51,7 +51,7 @@
 - [Tags][tags] - [Hacking Help Covid-19][hackinghelp]
 
 <!-- Links -->
-[intership]: https://vertigo.com.br/
+[work]: https://www.itau.com.br/
 [website]: https://iuri-almeida.github.io/
 [donut]: https://www.a1k0n.net/2011/07/20/donut-math.html
 [githubProfile]: https://github.com/Iuri-Almeida
